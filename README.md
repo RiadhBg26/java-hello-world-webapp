@@ -5,4 +5,4 @@ A simple java web app
 
 B simple change   
 
-C jenkins trigger
+C jenkins triggered
