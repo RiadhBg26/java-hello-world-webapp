@@ -25,12 +25,7 @@
       <configuration>
         <formats>
           <format>xml</format>
-        </formats>  
-          <instrumentation>
-                    <includes>
-                   <include>**/*.class</include>
-                    </includes>
-              </instrumentation>
+        </formats>
     </configuration>
     <executions>
       <execution>
